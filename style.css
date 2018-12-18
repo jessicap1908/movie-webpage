@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
   color: Red;
   text-align: center;
@@ -10,4 +11,19 @@ h1{
 p {
  font-family: 'Freckle Face', cursive;
  font-size: 60px;
+=======
+
+
+body{
+   font-size:20px;  
+  font-family:'Rye',"The Sisters Daring Night";
+  text-align:center;
+  
+}
+h1 {
+  font-size:20px;  
+  font-family:'Rye',"The Sisters Daring Night";
+  text-align:center;
+  
+>>>>>>> d9d30b2e8cb510b8466de40fa4cab201b2ec812d
 }
