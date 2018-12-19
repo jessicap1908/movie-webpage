@@ -11,8 +11,13 @@ h1{
 p {
  font-family: 'Freckle Face', cursive;
  font-size: 20px;
-color:white;
+ color:white;
 }
 body{
   background:black
+}
+h2{
+  color: White;
+  text-align:center;
+  font-size:20px;
 }
