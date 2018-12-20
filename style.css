@@ -3,13 +3,13 @@ h1{
   color: Red;
   text-align: center;
   font-size:40px;
-  font-family: 'Rye', cursive;
+  font-family: 'Freckle Face', cursive;
 }
 .bold{
   font-weight: 15;
 }
 p {
- font-family: 'Freckle Face', cursive;
+ font-family: 'Rye', cursive;
  font-size: 20px;
  color:white;
 }
@@ -41,6 +41,10 @@ h2{
 }
 h3{
   color:White;
+  font-family: 'Freckle Face', cursive;
   text-align: center;
   font-size: 30px;
+}
+.Suggestions{
+  color:red;
 }
