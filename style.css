@@ -12,43 +12,70 @@ p {
  font-family: 'Indie Flower', cursive;
  font-size: 20px;
  color:white;
+ border: 1px solid white;
+  padding: 30px;
+ 
 }
 body{
   background:black
 }
+.Spooky {
+  width: 200px;
+  float:left;
+  border: 1px solid red;
+   padding: 20px;
+}
+
+
+
+
+
+
+
+
+
 h2{
   color: White;
   font-family:'Rye', cursive;
   text-align:center;
   font-size:25px;
+  width:100px;
+  padding:10px;
 }
 
-.blue {
+.Name {
  color:red; 
  background: black;
 }
-.blue-botton{
-  color:red;
-  
-}
+
 .Gender{
   color:red;
 }
 .Phone{
   color:red;
+ 
 }
 .Seat{
   color:red;
 }
-h3{
+
+.Suggestions{
+  color:red;
+
+}
+
+.Selections{
+  border-color: white;
+}
+
+.red-botton{
+  background-color:red;
+  color:white;
+}
+
+#dropdate{
   color:White;
   font-family: 'Freckle Face', cursive;
   text-align: center;
   font-size: 30px;
-}
-.Suggestions{
-  color:red;
-}
-.Selections{
-  border-color: white;
 }
