@@ -25,7 +25,11 @@ body{
   border: 1px solid red;
    padding: 20px;
 }
-
+.Suspense{
+  width: 200px;
+  float:right;
+  border:;
+}
 
 
 
